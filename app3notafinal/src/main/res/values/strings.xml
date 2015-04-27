@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">App3 Nota Final</string>
+
+    <string name="Intro">Nota Final Progr.Moviles</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="quices">Quices (15%)</string>
+    <string name="expoc">Exposiciones (10%)</string>
+    <string name="practs">Prac. de Laborat. (40%)</string>
+    <string name="proyect">Proyecto Final (35%)</string>
+
+    <string name="texto">Ingrese Nota</string>
+    <string name="result">Resultado</string>
+    <string name="boton">Calcular</string>
+</resources>

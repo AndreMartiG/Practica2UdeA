@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">App5 Formulario</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="boton">OK</string>
+    <string name="boton2">Cancel</string>
+    <string name="mensaje">Ingrese algo</string>
+
+    <string name="nombre">Nombre</string>
+    <string name="correo">Correo</string>
+    <string name="tel">Telefono</string>
+    <string name="gener">Genero</string>
+    <string name="city">Ciudad</string>
+    <string name="hob">Hobby</string>
+    <string name="fechaNac">Fecha de Nacimiento</string>
+
+    <string name="exnombre">Alguien</string>
+    <string name="excorreo">alguien@ejemplo.com</string>
+    <string name="extel">Diez digitos</string>
+    <string name="fem">Femenino</string>
+    <string name="masc">Masculino</string>
+    <string name="hob1">Futbol</string>
+    <string name="hob2">Baloncesto</string>
+    <string name="hob3">Karate</string>
+    <string name="hob4">Correr</string>
+
+
+</resources>

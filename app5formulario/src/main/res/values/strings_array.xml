@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="cities_array">
+        <item>Bogota</item>
+        <item>Bucaramanga</item>
+        <item>Cali</item>
+        <item>Cartagena</item>
+        <item>Manizales</item>
+        <item>Medellin</item>
+        <item>Pereira</item>
+        <item>Santa Marta</item>
+    </string-array>
+
+</resources>
