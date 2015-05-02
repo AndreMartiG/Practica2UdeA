@@ -1,1 +1,1 @@
-include ':app', ':app1colores', ':app2calculadora', ':app3notafinal', ':app4figurasgeometricas', ':app5formulario'
+include ':app1colores', ':app2calculadora', ':app3notafinal', ':app4figurasgeometricas', ':app5formulario'

@@ -13,7 +13,7 @@ import android.widget.TextView;
 
 public class Calculadora extends Activity {
 
-    int operac = 0;
+    int operac = 1;
     double number1, number2, res = 0;
 
     @Override
@@ -32,25 +32,31 @@ public class Calculadora extends Activity {
             @Override
             public void onClick(View v) {
 
-                number1 = Double.parseDouble(num1.getText().toString());
-                number2 = Double.parseDouble(num2.getText().toString());
+                int check1 = num1.getText().toString().trim().length();
+                int check2 = num2.getText().toString().trim().length();
 
-                switch(operac) {
-                    case 1:
-                        res = number1 + number2;
-                        break;
-                    case 2:
-                        res = number1 - number2;
-                        break;
-                    case 3:
-                        res = number1 * number2;
-                        break;
-                    case 4:
-                        res = number1 / number2;
-                        break;
+                if (check1 != 0 && check2 != 0) {
+                    number1 = Double.parseDouble(num1.getText().toString());
+                    number2 = Double.parseDouble(num2.getText().toString());
+
+                    switch (operac) {
+                        case 1:
+                            res = number1 + number2;
+                            break;
+                        case 2:
+                            res = number1 - number2;
+                            break;
+                        case 3:
+                            res = number1 * number2;
+                            break;
+                        case 4:
+                            res = number1 / number2;
+                            break;
+                    }
+
+                    result.setText(Double.toString(res));
                 }
-
-                result.setText(Double.toString(res));
+                else result.setText("No Valido");
             }
         });
     }

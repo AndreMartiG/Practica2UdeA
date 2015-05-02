@@ -9,7 +9,6 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/app1colores" />
             <option value="$PROJECT_DIR$/app2calculadora" />
             <option value="$PROJECT_DIR$/app3notafinal" />

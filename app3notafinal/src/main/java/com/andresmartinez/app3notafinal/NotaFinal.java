@@ -2,6 +2,7 @@ package com.andresmartinez.app3notafinal;
 
 import android.app.Activity;
 import android.os.Bundle;
+import android.text.InputFilter;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
@@ -25,6 +26,12 @@ public class NotaFinal extends Activity {
         final EditText gExp=(EditText) findViewById(R.id.eExposic);
         final EditText gPrac= (EditText) findViewById(R.id.ePract);
         final EditText gProy= (EditText) findViewById(R.id.eProy);
+
+        //Valores minimos y maximos
+        gQuiz.setFilters(new InputFilter[]{new InputFilterMinMax("0.0", "5.0")});
+        gExp.setFilters(new InputFilter[]{new InputFilterMinMax("0.0", "5.0")});
+        gPrac.setFilters(new InputFilter[]{new InputFilterMinMax("0.0", "5.0")});
+        gProy.setFilters(new InputFilter[]{new InputFilterMinMax("0.0", "5.0")});
 
         final TextView result=(TextView) findViewById(R.id.tResult);
         Button boton =(Button) findViewById(R.id.button);
