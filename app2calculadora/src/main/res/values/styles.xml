@@ -5,4 +5,10 @@
         <!-- Customize your theme here. -->
     </style>
 
+    <color name="theme_color">@color/rosybrown</color>
+    <style name="CustomThem" parent="android:Theme.Light">
+        <item name="android:windowBackground">@color/theme_color</item>
+        <item name="android:colorBackground">@color/theme_color</item>
+    </style>
+
 </resources>

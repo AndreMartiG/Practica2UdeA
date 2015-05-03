@@ -138,6 +138,7 @@
         android:id="@+id/tResult"
         android:textSize="50dp"
         android:layout_gravity="center"
+        android:textStyle="bold"
         android:textColor="@android:color/darker_gray"/>
 
 </LinearLayout>

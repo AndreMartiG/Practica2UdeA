@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App3 Nota Final</string>
+
+    <string name="Intro">Nota Final Progr.Moviles</string>
+    <string name="action_settings">Ajustes</string>
+
+    <string name="quices">Quices (15%)</string>
+    <string name="expoc">Exposiciones (10%)</string>
+    <string name="practs">Practicas (40%)</string>
+    <string name="proyect">Proyecto (35%)</string>
+
+    <string name="texto">Nota</string>
+    <string name="result">Resultado</string>
+    <string name="boton">Calcular</string>
+</resources>

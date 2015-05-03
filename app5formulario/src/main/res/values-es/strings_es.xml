@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App5 Formulario</string>
+
+    <string name="hello_world">Hola Mundo!</string>
+    <string name="action_settings">Ajustes</string>
+
+    <string name="boton">Aceptar</string>
+    <string name="boton2">Cancelar</string>
+    <string name="mensaje">Ingrese algo</string>
+
+    <string name="nombre">Nombre</string>
+    <string name="correo">Correo</string>
+    <string name="tel">Telefono</string>
+    <string name="gener">Genero</string>
+    <string name="city">Ciudad</string>
+    <string name="hob">Pasatiempo</string>
+    <string name="fechaNac">Fecha de Nacimiento</string>
+
+    <string name="exnombre">Alguien</string>
+    <string name="excorreo">alguien@ejemplo.com</string>
+    <string name="extel">Diez digitos</string>
+    <string name="fem">Femenino</string>
+    <string name="masc">Masculino</string>
+    <string name="hob1">Fútbol</string>
+    <string name="hob2">Baloncesto</string>
+    <string name="hob3">Karate</string>
+    <string name="hob4">Correr</string>
+
+
+</resources>

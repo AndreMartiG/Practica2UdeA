@@ -1,29 +1,23 @@
 <resources>
-    <string name="app_name">App4 Figuras Geometricas</string>
+    <string name="app_name">App4 Geometric Figures</string>
 
-    <string name="Intro">Areas Fig. Geometricas</string>
+    <string name="Intro">Areas Geometric Fig.</string>
     <string name="action_settings">Settings</string>
 
-    <string name="RadioBcuad">Cuadrado</string>
-    <string name="RadioBtriang">Triangulo</string>
-    <string name="RadioBrect">Rectangulo</string>
-    <string name="RadioBcirc">Circulo</string>
+    <string name="RadioBcuad">Scuare</string>
+    <string name="RadioBtriang">Triangle</string>
+    <string name="RadioBrect">Rectangle</string>
+    <string name="RadioBcirc">Circle</string>
 
-    <string name="ladoCuad">Lado</string>
-    <string name="lado1triang">Lado 1</string>
-    <string name="lado2triang">Lado 2</string>
-    <string name="lado3triang">Lado 3</string>
-    <string name="lado1rect">Lado Largo</string>
-    <string name="lado2rect">Lado Corto</string>
+    <string name="ladoCuad">Side</string>
+    <string name="lado1triang">Side 1</string>
+    <string name="lado2triang">Side 2</string>
+    <string name="lado3triang">Side 3</string>
+    <string name="lado1rect">Long Side</string>
+    <string name="lado2rect">Short Side</string>
     <string name="radiocirc">Radio</string>
 
-    <string name="boton">Calcular</string>
-    <string name="result">Resultado</string>
-
-
-
-
-
-
+    <string name="boton">Calculate</string>
+    <string name="result">Result</string>
 
 </resources>

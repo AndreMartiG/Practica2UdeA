@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App2 Calculadora</string>
+
+    <string name="result">Resultado</string>
+    <string name="action_settings">Ajustes</string>
+
+    <string name="num1">Primer Número  </string>
+    <string name="num2">Segundo Número </string>
+    <string name="exnum">Número</string>
+
+    <string name="suma">Suma</string>
+    <string name="resta">Resta</string>
+    <string name="mult">Multiplicación</string>
+    <string name="div">División</string>
+    <string name="boton">Calcular</string>
+
+</resources>

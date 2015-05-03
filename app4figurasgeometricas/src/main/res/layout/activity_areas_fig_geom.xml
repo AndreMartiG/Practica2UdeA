@@ -15,6 +15,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="30sp"
+        android:textStyle="italic"
         android:layout_gravity="center_horizontal"/>
 
     <LinearLayout
@@ -157,6 +158,7 @@
         android:id="@+id/tResult"
         android:textSize="50dp"
         android:layout_gravity="center"
-        android:textColor="@android:color/darker_gray"/>
+        android:textStyle="italic"
+        android:textColor="@android:color/holo_red_dark"/>
 
 </LinearLayout>

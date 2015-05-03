@@ -1,17 +1,17 @@
 <resources>
-    <string name="app_name">App2 Calculadora</string>
+    <string name="app_name">App2 Calculator</string>
 
-    <string name="result">Resultado</string>
+    <string name="result">Result</string>
     <string name="action_settings">Settings</string>
 
-    <string name="num1">Primer Número  </string>
-    <string name="num2">Segundo Número </string>
-    <string name="exnum">Ingrese Número</string>
+    <string name="num1">First Number  </string>
+    <string name="num2">Second Number </string>
+    <string name="exnum">Number</string>
 
-    <string name="suma">Suma</string>
-    <string name="resta">Resta</string>
-    <string name="mult">Multiplicación</string>
-    <string name="div">División</string>
-    <string name="boton">Calcular</string>
+    <string name="suma">Addition</string>
+    <string name="resta">Subtraction</string>
+    <string name="mult">Multiplication</string>
+    <string name="div">Division</string>
+    <string name="boton">Calculate</string>
 
 </resources>
