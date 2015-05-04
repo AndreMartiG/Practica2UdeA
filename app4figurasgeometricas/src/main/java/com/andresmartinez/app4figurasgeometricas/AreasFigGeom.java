@@ -72,7 +72,7 @@ public class AreasFigGeom extends Activity {
                             result.setText(Double.toString(res));
                             break;
                         case 4:
-                            res = 2 * Math.PI * number1;        //area de un circulo
+                            res = Math.PI * Math.pow(number1, 2);        //area de un circulo
                             result.setText(Double.toString(res));
                             break;
                         default:
